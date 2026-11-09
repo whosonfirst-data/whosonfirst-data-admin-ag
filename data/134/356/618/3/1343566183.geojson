@@ -94,7 +94,7 @@
         "gn:id":3576323
     },
     "wof:country":"AG",
-    "wof:geomhash":"0d5c592136ee99b640fd507690816bc5",
+    "wof:geomhash":"c811820852ab88de166bf7af3030b5aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,5 +119,5 @@
     -61.83586,
     17.02527000000001
 ],
-  "geometry": {"coordinates":[-61.83586,17.02527000000001],"type":"Point"}
+  "geometry": {"coordinates":[-61.83586,17.02527],"type":"Point"}
 }

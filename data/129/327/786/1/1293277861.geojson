@@ -54,7 +54,7 @@
         "wk:page":"Jennings%2C_Antigua_and_Barbuda"
     },
     "wof:country":"AG",
-    "wof:geomhash":"d58479191391ed08940ec9d7203c2393",
+    "wof:geomhash":"653d911ffac8673f8a9eee5706b2216d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,5 +79,5 @@
     -61.86581999999999,
     17.07779
 ],
-  "geometry": {"coordinates":[-61.86581999999999,17.07779],"type":"Point"}
+  "geometry": {"coordinates":[-61.86582,17.07779],"type":"Point"}
 }

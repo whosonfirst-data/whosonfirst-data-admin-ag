@@ -53,7 +53,7 @@
         "wk:page":"Bethesda%2C_Antigua_and_Barbuda"
     },
     "wof:country":"AG",
-    "wof:geomhash":"77db98d94c02dbc92d9dfcb6af2b0c9f",
+    "wof:geomhash":"df15f1ff884ccfbe7c8991520f0c764e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,5 +78,5 @@
     -61.75083000000001,
     17.04331
 ],
-  "geometry": {"coordinates":[-61.75083000000001,17.04331],"type":"Point"}
+  "geometry": {"coordinates":[-61.75083,17.04331],"type":"Point"}
 }
