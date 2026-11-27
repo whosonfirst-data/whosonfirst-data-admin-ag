@@ -1,0 +1,72 @@
+{
+  "id": 9895008413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.83731,17.02552,-61.83731,17.02552",
+    "geom:latitude":17.02552,
+    "geom:longitude":-61.83731,
+    "iso:country":"AG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3575961: name \"Tramontania\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3575961"
+        },
+        {
+            "citation":"GeoNames populated place 3575961: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3575961"
+        },
+        {
+            "citation":"GeoNames populated place 3575961: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3575961"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668187 (Saint Mary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529,
+        85668187,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575961
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"dd272be7c484102fab714b32e3c1bedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":9895008413,
+            "region_id":85668187
+        }
+    ],
+    "wof:id":9895008413,
+    "wof:lastmodified":1795734941,
+    "wof:name":"Tramontania",
+    "wof:parent_id":85668187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.83731,
+    17.02552,
+    -61.83731,
+    17.02552
+],
+  "geometry": {"coordinates":[-61.83731,17.02552],"type":"Point"}
+}

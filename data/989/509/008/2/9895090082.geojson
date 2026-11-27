@@ -1,0 +1,72 @@
+{
+  "id": 9895090082,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.75725,17.12423,-61.75725,17.12423",
+    "geom:latitude":17.12423,
+    "geom:longitude":-61.75725,
+    "iso:country":"AG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11882973: name \"Crabs Peninsula\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11882973"
+        },
+        {
+            "citation":"GeoNames populated place 11882973: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11882973"
+        },
+        {
+            "citation":"GeoNames populated place 11882973: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11882973"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668173 (Saint Peter), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529,
+        85668173,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11882973
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"b86fea607f214d94f235f18fb7271016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":9895090082,
+            "region_id":85668173
+        }
+    ],
+    "wof:id":9895090082,
+    "wof:lastmodified":1795746178,
+    "wof:name":"Crabs Peninsula",
+    "wof:parent_id":85668173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.75725,
+    17.12423,
+    -61.75725,
+    17.12423
+],
+  "geometry": {"coordinates":[-61.75725,17.12423],"type":"Point"}
+}

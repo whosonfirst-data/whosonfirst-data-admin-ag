@@ -1,0 +1,72 @@
+{
+  "id": 9895090076,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.88007,17.11241,-61.88007,17.11241",
+    "geom:latitude":17.11241,
+    "geom:longitude":-61.88007,
+    "iso:country":"AG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3575977: name \"Sutherland\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3575977"
+        },
+        {
+            "citation":"GeoNames populated place 3575977: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3575977"
+        },
+        {
+            "citation":"GeoNames populated place 3575977: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3575977"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668191 (Saint John), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529,
+        85668191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575977
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"8176076bc304ed4612633081e7534ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":9895090076,
+            "region_id":85668191
+        }
+    ],
+    "wof:id":9895090076,
+    "wof:lastmodified":1795746178,
+    "wof:name":"Sutherland",
+    "wof:parent_id":85668191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.88007,
+    17.11241,
+    -61.88007,
+    17.11241
+],
+  "geometry": {"coordinates":[-61.88007,17.11241],"type":"Point"}
+}

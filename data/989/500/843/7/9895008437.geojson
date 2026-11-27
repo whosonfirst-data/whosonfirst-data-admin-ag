@@ -1,0 +1,72 @@
+{
+  "id": 9895008437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.7375,17.08088,-61.7375,17.08088",
+    "geom:latitude":17.08088,
+    "geom:longitude":-61.7375,
+    "iso:country":"AG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11881417: name \"Elliots\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11881417"
+        },
+        {
+            "citation":"GeoNames populated place 11881417: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11881417"
+        },
+        {
+            "citation":"GeoNames populated place 11881417: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11881417"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668173 (Saint Peter), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529,
+        85668173,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11881417
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"c2ddafbd7bf6a3ba15e0bdc88212f57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":9895008437,
+            "region_id":85668173
+        }
+    ],
+    "wof:id":9895008437,
+    "wof:lastmodified":1795734941,
+    "wof:name":"Elliots",
+    "wof:parent_id":85668173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.7375,
+    17.08088,
+    -61.7375,
+    17.08088
+],
+  "geometry": {"coordinates":[-61.7375,17.08088],"type":"Point"}
+}

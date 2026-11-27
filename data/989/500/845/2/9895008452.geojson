@@ -1,0 +1,72 @@
+{
+  "id": 9895008452,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.85302,17.11654,-61.85302,17.11654",
+    "geom:latitude":17.11654,
+    "geom:longitude":-61.85302,
+    "iso:country":"AG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11883142: name \"Hattons\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11883142"
+        },
+        {
+            "citation":"GeoNames populated place 11883142: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11883142"
+        },
+        {
+            "citation":"GeoNames populated place 11883142: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11883142"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668191 (Saint John), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529,
+        85668191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11883142
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"995ef8d15404aac409d2a752073a2c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":9895008452,
+            "region_id":85668191
+        }
+    ],
+    "wof:id":9895008452,
+    "wof:lastmodified":1795734941,
+    "wof:name":"Hattons",
+    "wof:parent_id":85668191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.85302,
+    17.11654,
+    -61.85302,
+    17.11654
+],
+  "geometry": {"coordinates":[-61.85302,17.11654],"type":"Point"}
+}

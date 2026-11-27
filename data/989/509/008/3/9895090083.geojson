@@ -1,0 +1,72 @@
+{
+  "id": 9895090083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.88753,17.04214,-61.88753,17.04214",
+    "geom:latitude":17.04214,
+    "geom:longitude":-61.88753,
+    "iso:country":"AG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11883146: name \"Picarts\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11883146"
+        },
+        {
+            "citation":"GeoNames populated place 11883146: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11883146"
+        },
+        {
+            "citation":"GeoNames populated place 11883146: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11883146"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668187 (Saint Mary), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529,
+        85668187,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11883146
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"dd2594b4e26a5debeead97a75dc70f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":9895090083,
+            "region_id":85668187
+        }
+    ],
+    "wof:id":9895090083,
+    "wof:lastmodified":1795746178,
+    "wof:name":"Picarts",
+    "wof:parent_id":85668187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.88753,
+    17.04214,
+    -61.88753,
+    17.04214
+],
+  "geometry": {"coordinates":[-61.88753,17.04214],"type":"Point"}
+}

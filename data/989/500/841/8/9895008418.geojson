@@ -1,0 +1,72 @@
+{
+  "id": 9895008418,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.84161,17.14953,-61.84161,17.14953",
+    "geom:latitude":17.14953,
+    "geom:longitude":-61.84161,
+    "iso:country":"AG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3576076: name \"Paradise View\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3576076"
+        },
+        {
+            "citation":"GeoNames populated place 3576076: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3576076"
+        },
+        {
+            "citation":"GeoNames populated place 3576076: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3576076"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668191 (Saint John), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529,
+        85668191,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576076
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"1670b111e258c6ded0ac134bc19a34e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":9895008418,
+            "region_id":85668191
+        }
+    ],
+    "wof:id":9895008418,
+    "wof:lastmodified":1795734941,
+    "wof:name":"Paradise View",
+    "wof:parent_id":85668191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.84161,
+    17.14953,
+    -61.84161,
+    17.14953
+],
+  "geometry": {"coordinates":[-61.84161,17.14953],"type":"Point"}
+}

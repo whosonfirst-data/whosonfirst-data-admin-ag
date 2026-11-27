@@ -1,0 +1,72 @@
+{
+  "id": 9895008439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.80155,17.03937,-61.80155,17.03937",
+    "geom:latitude":17.03937,
+    "geom:longitude":-61.80155,
+    "iso:country":"AG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11881424: name \"Richmond\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11881424"
+        },
+        {
+            "citation":"GeoNames populated place 11881424: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11881424"
+        },
+        {
+            "citation":"GeoNames populated place 11881424: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11881424"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668181 (Saint Paul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529,
+        85668181,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11881424
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"66a922839ec99447f52d01906cc41866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":9895008439,
+            "region_id":85668181
+        }
+    ],
+    "wof:id":9895008439,
+    "wof:lastmodified":1795734941,
+    "wof:name":"Richmond",
+    "wof:parent_id":85668181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.80155,
+    17.03937,
+    -61.80155,
+    17.03937
+],
+  "geometry": {"coordinates":[-61.80155,17.03937],"type":"Point"}
+}

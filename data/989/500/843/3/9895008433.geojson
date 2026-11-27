@@ -1,0 +1,72 @@
+{
+  "id": 9895008433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.7909,17.11643,-61.7909,17.11643",
+    "geom:latitude":17.11643,
+    "geom:longitude":-61.7909,
+    "iso:country":"AG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11881399: name \"Weirs\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11881399"
+        },
+        {
+            "citation":"GeoNames populated place 11881399: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11881399"
+        },
+        {
+            "citation":"GeoNames populated place 11881399: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11881399"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668171 (Saint George), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529,
+        85668171,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11881399
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"9cf95bd49eccd8fd5e0c03274b3cc9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":9895008433,
+            "region_id":85668171
+        }
+    ],
+    "wof:id":9895008433,
+    "wof:lastmodified":1795734941,
+    "wof:name":"Weirs",
+    "wof:parent_id":85668171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.7909,
+    17.11643,
+    -61.7909,
+    17.11643
+],
+  "geometry": {"coordinates":[-61.7909,17.11643],"type":"Point"}
+}

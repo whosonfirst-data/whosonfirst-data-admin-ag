@@ -1,0 +1,72 @@
+{
+  "id": 9895008438,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76567,17.04947,-61.76567,17.04947",
+    "geom:latitude":17.04947,
+    "geom:longitude":-61.76567,
+    "iso:country":"AG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11881421: name \"Bodkins\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11881421"
+        },
+        {
+            "citation":"GeoNames populated place 11881421: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11881421"
+        },
+        {
+            "citation":"GeoNames populated place 11881421: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11881421"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668181 (Saint Paul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529,
+        85668181,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11881421
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"398e3fa397ea3944472091912034dfad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":9895008438,
+            "region_id":85668181
+        }
+    ],
+    "wof:id":9895008438,
+    "wof:lastmodified":1795734941,
+    "wof:name":"Bodkins",
+    "wof:parent_id":85668181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76567,
+    17.04947,
+    -61.76567,
+    17.04947
+],
+  "geometry": {"coordinates":[-61.76567,17.04947],"type":"Point"}
+}

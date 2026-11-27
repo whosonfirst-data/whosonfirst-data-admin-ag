@@ -1,0 +1,72 @@
+{
+  "id": 9895008454,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.81686,17.64261,-61.81686,17.64261",
+    "geom:latitude":17.64261,
+    "geom:longitude":-61.81686,
+    "iso:country":"AG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11885113: name \"James Corner\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11885113"
+        },
+        {
+            "citation":"GeoNames populated place 11885113: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11885113"
+        },
+        {
+            "citation":"GeoNames populated place 11885113: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11885113"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668161 (Barbuda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529,
+        85668161,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11885113
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"a466f821af0829d1a3e3b51f935e1466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":9895008454,
+            "region_id":85668161
+        }
+    ],
+    "wof:id":9895008454,
+    "wof:lastmodified":1795734941,
+    "wof:name":"James Corner",
+    "wof:parent_id":85668161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.81686,
+    17.64261,
+    -61.81686,
+    17.64261
+],
+  "geometry": {"coordinates":[-61.81686,17.64261],"type":"Point"}
+}

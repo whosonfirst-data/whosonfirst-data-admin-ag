@@ -1,0 +1,72 @@
+{
+  "id": 9895008430,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.87584,17.04884,-61.87584,17.04884",
+    "geom:latitude":17.04884,
+    "geom:longitude":-61.87584,
+    "iso:country":"AG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11881355: name \"Willocks\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11881355"
+        },
+        {
+            "citation":"GeoNames populated place 11881355: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11881355"
+        },
+        {
+            "citation":"GeoNames populated place 11881355: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11881355"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668187 (Saint Mary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529,
+        85668187,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11881355
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"e00077a04c6f497d5eb7fc9f99779664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":9895008430,
+            "region_id":85668187
+        }
+    ],
+    "wof:id":9895008430,
+    "wof:lastmodified":1795734941,
+    "wof:name":"Willocks",
+    "wof:parent_id":85668187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.87584,
+    17.04884,
+    -61.87584,
+    17.04884
+],
+  "geometry": {"coordinates":[-61.87584,17.04884],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895008463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.87441,17.07223,-61.87441,17.07223",
+    "geom:latitude":17.07223,
+    "geom:longitude":-61.87441,
+    "gn:population":7341,
+    "iso:country":"AG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13590586: name \"St. Mary Parish\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13590586"
+        },
+        {
+            "citation":"GeoNames populated place 13590586: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13590586"
+        },
+        {
+            "citation":"GeoNames populated place 13590586: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13590586"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668187 (Saint Mary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529,
+        85668187,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13590586
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"d5ef5199b53555c6e28910b70df58a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":9895008463,
+            "region_id":85668187
+        }
+    ],
+    "wof:id":9895008463,
+    "wof:lastmodified":1795734941,
+    "wof:name":"St. Mary Parish",
+    "wof:parent_id":85668187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.87441,
+    17.07223,
+    -61.87441,
+    17.07223
+],
+  "geometry": {"coordinates":[-61.87441,17.07223],"type":"Point"}
+}
